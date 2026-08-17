@@ -1,0 +1,20 @@
+# Raw data files (too large for git, and shouldn't be versioned anyway)
+data/raw/
+data/processed/*.csv
+
+# Keep folder structure visible with placeholder
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Python environment
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
