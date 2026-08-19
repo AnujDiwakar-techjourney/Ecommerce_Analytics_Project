@@ -38,7 +38,7 @@ SELECT
 FROM orders_master
 WHERE order_status != 'canceled'
 GROUP BY main_category
-ORDER BY total_revenue DESC
+ORDER BY total_revenue DESC   
 LIMIT 5;
 
 
