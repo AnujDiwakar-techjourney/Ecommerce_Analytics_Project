@@ -24,6 +24,9 @@ analysis pipeline.
 ## 📂 Project Structure
 ```
 ecommerce-analytics-project/
+├── dashboard/
+│   ├── ecommerce_dashboard.pbix
+│   └── dashboard_screenshot.png
 ├── data/
 │   ├── raw/              # original Olist CSVs (not tracked in git)
 │   └── processed/         # cleaned master table + RFM segments
@@ -34,9 +37,7 @@ ecommerce-analytics-project/
 │   └── 04_sql_loading.ipynb
 ├── sql/
 │   └── analysis_queries.sql
-├── dashboard/
-│   ├── ecommerce_dashboard.pbix
-│   └── dashboard_screenshot.png
+
 └── README.md
 ```
 
