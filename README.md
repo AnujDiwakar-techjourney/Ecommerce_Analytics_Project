@@ -72,8 +72,7 @@ ecommerce-analytics-project/
 5. Open `dashboard/ecommerce_dashboard.pbix` in Power BI Desktop to explore interactively
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
-
+![Dashboard Screenshot](dashboard/dashboard.png)
 *Interactive Power BI dashboard featuring KPI cards, monthly revenue
 trend, top product categories, RFM customer segmentation, and date/state
 filters for cross-filtered exploration.*
